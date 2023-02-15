@@ -1,0 +1,23 @@
+{
+  "name": "babel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/runtime-corejs3": "^7.20.13"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.19.6",
+    "@vitejs/plugin-legacy": "^4.0.1"
+  }
+}
