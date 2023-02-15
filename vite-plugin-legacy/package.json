@@ -22,4 +22,8 @@
     "@vitejs/plugin-react": "^3.1.0",
     "typescript": "^4.9.3"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dda2bf5d1c8723e2e04e57195be3a07cbb881c6d
